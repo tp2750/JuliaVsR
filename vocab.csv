@@ -72,7 +72,7 @@ max,max,Basics,Basic Math
 min,min,Basics,Basic Math
 prod,prod,Basics,Basic Math
 sum,sum,Basics,Basic Math
-range,,Basics,Basic Math
+range,extrema,Basics,Basic Math
 mean,mean,Basics,Basic Math
 median,median,Basics,Basic Math
 cor,cor_pearson,Basics,Basic Math
